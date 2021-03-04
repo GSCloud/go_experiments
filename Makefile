@@ -16,3 +16,4 @@ go:
 test:
 	go run hello.go
 	go build hello.go
+	./hello
