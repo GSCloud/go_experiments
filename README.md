@@ -10,4 +10,4 @@ Github: [https://github.com/GSCloud/go_experiments]
 
 * *bin/* - installation scripts
 
-Author: Filip Oščádal aka Fred Brooker 💌 <oscadal@gscloud.cz>
+Author: Filip Oščádal aka Fred Brooker 💌 <git@gscloud.cz>
