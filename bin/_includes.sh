@@ -1,5 +1,5 @@
 #!/bin/bash
-#@author Filip Oščádal <oscadal@gscloud.cz>
+#@author Filip Oščádal <git@gscloud.cz>
 
 TS=`date +"%T"`
 LOG_FILE="/tmp/ubuntu-server-installer-$TS.log"
@@ -11,7 +11,7 @@ info() {
 
 warn() {
   echo -e " \e[1;33m***\e[0;1m ${*}\e[0m" 1>&2
-  sleep 3
+  sleep 1
 }
 
 fail() {
